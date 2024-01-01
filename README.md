@@ -31,6 +31,6 @@ This command produces a movie of zoom_composite_1080.mp4.
 
 ### png2mp4.sh
 
-This is a back end of dir2mp4.sh This command a mp4 file by PNG files.
+This is a back end of dir2mp4.sh This command produces a mp4 file from PNG files.
 
   
